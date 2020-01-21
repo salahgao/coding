@@ -1,7 +1,7 @@
 package com.salah.ali.oom1;
 
 /**
- * @author gaofeirong
+ * @author salahgao
  * @date 2020/1/16
  */
 public class ArraySizeOOM {

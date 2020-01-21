@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Stack;
 
 /**
- * @author gaofeirong
+ * @author salahgao
  * @date 2020/1/20
  */
 public class Arithmetic2 {

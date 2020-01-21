@@ -8,7 +8,7 @@ import java.util.Random;
  * 1 转化为二进制数1的个数
  * 2 判断二进制位是否是否为1计数
  *
- * @author gaofeirong
+ * @author salahgao
  * @date 2019/12/3
  */
 public class BitCount {

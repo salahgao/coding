@@ -3,7 +3,7 @@ package com.salah.ali;
 /**
  * 核心思路，交换当前节点的prev与next
  *
- * @author gaofeirong
+ * @author salahgao
  * @date 2020/1/9
  */
 public class LinkedListReverse {
